@@ -21,3 +21,5 @@ Easy-to-use visual jQuery plugin, which can show weather wherever you live.
 2.  Initialize your weather button block, which you made earlier
 
         $("#weatherButton").weatherInfo()
+
+![Alt Text](media/so_hot.gif)
