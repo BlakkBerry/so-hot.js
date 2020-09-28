@@ -22,4 +22,4 @@ Easy-to-use visual jQuery plugin, which can show weather wherever you live.
 
         $("#weatherButton").weatherInfo()
 
-![Alt Text](media/so_hot.gif)
+![Alt Text](https://github.com/BlakkBerry/so-hot.js/blob/media/so_hot.gif)
